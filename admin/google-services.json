@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "300332521374",
+    "firebase_url": "https://exam-c5914-default-rtdb.firebaseio.com",
+    "project_id": "exam-c5914",
+    "storage_bucket": "exam-c5914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300332521374:android:cb4865f56c3c1cfc15688f",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAam20fpCYn6NQqN5qkxpM_ztDUUGs0Ra8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
